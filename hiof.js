@@ -1,3 +1,3 @@
 console.log("HIOF");
-const y = "test";
+const y = "this is const y";
 const t = "test2";
