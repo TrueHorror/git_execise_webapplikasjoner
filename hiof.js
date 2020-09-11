@@ -1,1 +1,2 @@
-console.log("HIOF")
+console.log("HIOF");
+const y = "test";
